@@ -1,0 +1,5 @@
+{
+  "name": "Quick Cards - Flashcard Generator",
+  "description": "A powerful flash-card generator that automatically extracts knowledge from user-uploaded images of notes. It supports multiple languages and can read the flashcards aloud.",
+  "requestFramePermissions": []
+}
